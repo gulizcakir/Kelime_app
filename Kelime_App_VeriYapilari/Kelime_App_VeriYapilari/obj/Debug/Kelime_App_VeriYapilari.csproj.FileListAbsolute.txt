@@ -1,0 +1,10 @@
+C:\Users\guliz\Desktop\Kelime_App_VeriYapilari\Kelime_App_VeriYapilari\bin\Debug\Kelime_App_VeriYapilari.exe.config
+C:\Users\guliz\Desktop\Kelime_App_VeriYapilari\Kelime_App_VeriYapilari\bin\Debug\Kelime_App_VeriYapilari.exe
+C:\Users\guliz\Desktop\Kelime_App_VeriYapilari\Kelime_App_VeriYapilari\bin\Debug\Kelime_App_VeriYapilari.pdb
+C:\Users\guliz\Desktop\Kelime_App_VeriYapilari\Kelime_App_VeriYapilari\obj\Debug\Kelime_App_VeriYapilari.csproj.AssemblyReference.cache
+C:\Users\guliz\Desktop\Kelime_App_VeriYapilari\Kelime_App_VeriYapilari\obj\Debug\Kelime_App_VeriYapilari.Form1.resources
+C:\Users\guliz\Desktop\Kelime_App_VeriYapilari\Kelime_App_VeriYapilari\obj\Debug\Kelime_App_VeriYapilari.Properties.Resources.resources
+C:\Users\guliz\Desktop\Kelime_App_VeriYapilari\Kelime_App_VeriYapilari\obj\Debug\Kelime_App_VeriYapilari.csproj.GenerateResource.cache
+C:\Users\guliz\Desktop\Kelime_App_VeriYapilari\Kelime_App_VeriYapilari\obj\Debug\Kelime_App_VeriYapilari.csproj.CoreCompileInputs.cache
+C:\Users\guliz\Desktop\Kelime_App_VeriYapilari\Kelime_App_VeriYapilari\obj\Debug\Kelime_App_VeriYapilari.exe
+C:\Users\guliz\Desktop\Kelime_App_VeriYapilari\Kelime_App_VeriYapilari\obj\Debug\Kelime_App_VeriYapilari.pdb

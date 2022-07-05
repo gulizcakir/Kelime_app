@@ -1,0 +1,5 @@
+Yapay Zeka
+Yapay zeka makineler tarafından gösterilen zeka'dır.
+Yapay zeka geliştirme dillerinden Python'un iyi olduğunu söyleyebilirim.
+Gelişen teknolojilerle birlikte günden güne yapay zeka teknolojileri gelişmektedir.
+Bu yazı Deniz Kılınç'tan alıntılanmıştır.
